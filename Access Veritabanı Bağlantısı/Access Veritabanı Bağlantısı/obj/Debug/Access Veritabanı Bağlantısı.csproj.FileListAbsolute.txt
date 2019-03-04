@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\bin\Debug\Kişiler.mdb
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\bin\Debug\Access Veritabanı Bağlantısı.exe.config
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\bin\Debug\Access Veritabanı Bağlantısı.exe
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\bin\Debug\Access Veritabanı Bağlantısı.pdb
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access Veritabanı Bağlantısı.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access_Veritabanı_Bağlantısı.Form1.resources
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access_Veritabanı_Bağlantısı.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access Veritabanı Bağlantısı.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access Veritabanı Bağlantısı.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access Veritabanı Bağlantısı.exe
+C:\Users\ADMIN\source\repos\Access Veritabanı Bağlantısı\Access Veritabanı Bağlantısı\obj\Debug\Access Veritabanı Bağlantısı.pdb
